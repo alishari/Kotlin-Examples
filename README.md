@@ -11,3 +11,5 @@ Warmup:
 3- Compare the Triplets([Question](https://www.hackerrank.com/challenges/compare-the-triplets/problem),[Code](https://github.com/alishari/Kotlin-Examples/blob/master/src/warmup/CompareTheTriplets.kt))
 
 4- A Very Big Sum([Question](https://www.hackerrank.com/challenges/a-very-big-sum/problem),[Code](https://github.com/alishari/Kotlin-Examples/blob/master/src/warmup/AVeryBigSum.kt))
+
+5- Diagonal Difference([Question](https://www.hackerrank.com/challenges/diagonal-difference/problem),[Code](https://github.com/alishari/Kotlin-Examples/blob/master/src/warmup/DiagonalDifference.kt))

@@ -21,7 +21,7 @@ fun main(arg: Array<String>) {
 fun Int.toBigInteger() = BigInteger.valueOf(toLong())
 
 fun aVeryBigSum(arr: IntArray): BigInteger {
-    var sum = BigInteger("0")
+    var sum = BigInteger.ZERO
     for (a in arr) {
         sum += a.toBigInteger()
     }
