@@ -17,8 +17,8 @@ fun main(arg: Array<String>) {
         }
         arr[a] = rowArr;
     }
-    val sum = diagonalDifference(arr)
-    println(sum)
+    val result = diagonalDifference(arr)
+    println(result)
 }
 
 fun diagonalDifference(arr: Array<IntArray>): Int {
